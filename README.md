@@ -1,4 +1,3 @@
 # Strict
 html / css / bootstrap
-Website : 
-Website : 
+Website : https://mhamudulislam.github.io/Strict/
